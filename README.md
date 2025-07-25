@@ -1,6 +1,6 @@
 # 🇵🇰 romanRekhta
 
-**romanRekhta** is a lightweight, flexible, and extensible Python library for **Roman Urdu Natural Language Processing (NLP)**. It provides essential tools for text preprocessing, tokenization, and stopword removal tailored to Roman Urdu — a widely used informal script across Pakistan and South Asia.
+**romanRekhta** is a lightweight, flexible, and extensible Python library for **Roman Urdu Natural Language Processing (NLP)**. It provides essential tools for text preprocessing, tokenization, and stopword removal tailored to Roman Urdu, a widely used informal script across Pakistan and South Asia.
 
 ---
 
